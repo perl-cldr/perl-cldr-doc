@@ -13,4 +13,3 @@ CLDR libraries for other languages
 * Ruby
     - [ruby-cldr](https://github.com/svenfuchs/ruby-cldr)
     - [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)
-* …
