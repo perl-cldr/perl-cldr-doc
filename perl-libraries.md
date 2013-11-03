@@ -5,6 +5,7 @@
 * [DateTime::Format::CLDR](https://metacpan.org/pod/DateTime::Format::CLDR)
 * [DateTime::Locale](https://metacpan.org/pod/DateTime::Locale)
 * [Locales](https://metacpan.org/pod/Locales)
++ [PICU](http://www.jebriggs.com/) (non-CPAN ICU wrapper)
 * [Unicode::Collate](https://metacpan.org/pod/Unicode::Collate)
 
 ## Perl 6
