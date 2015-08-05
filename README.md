@@ -5,7 +5,7 @@
 * [CLDR libraries for Perl](perl-libraries.md)
 * [CLDR libraries for other languages](other-libraries.md)
 
-© 2013–2014 Nick Patch
+© 2013–2015 Nova Patch
 
 This library is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.
